@@ -11,7 +11,7 @@
   <img align="center" alt="Ramon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ramon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ramon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Ramon-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/2f/be/71/2fbe718d34f9be8cff01db741be905ef.jpg">
+  <img align="right" alt="Ramon-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/90793910?v=4">
 </div>
   
   ##
