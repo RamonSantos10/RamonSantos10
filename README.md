@@ -10,10 +10,13 @@
   <img align="center" alt="Ramon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ramon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ramon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Ramon-pic" height="200" style="" src="https://lh3.googleusercontent.com/pw/AJFCJaXtRzmz0lyKpQw4RjSVzFZP-koNit8mWUDibpoXi4YQbdHrXpSrtZ60pWeki3X6T4K9pFZq_BeV4R7z_hZJbsSa5vABmSoEw85NOF3Z-vBBAMHVOsZNucoroMkbQ1yuhTfOtuLbTC0mCDrVf85q5EuP=w1564-h880-s-no?authuser=0">
+  <img align="right" alt="Ramon-pic" height="124" style="" src="https://lh3.googleusercontent.com/pw/AJFCJaXtRzmz0lyKpQw4RjSVzFZP-koNit8mWUDibpoXi4YQbdHrXpSrtZ60pWeki3X6T4K9pFZq_BeV4R7z_hZJbsSa5vABmSoEw85NOF3Z-vBBAMHVOsZNucoroMkbQ1yuhTfOtuLbTC0mCDrVf85q5EuP=w1564-h880-s-no?authuser=0">
 </div>
   
   ##
+
+  
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramonsantos10&show_icons=true&theme=radical)
