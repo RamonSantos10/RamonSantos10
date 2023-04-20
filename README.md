@@ -10,8 +10,7 @@
   <img align="center" alt="Ramon-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ramon-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ramon-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <br>
-  <img align="right" alt="Ramon-pic" height="47" style="border-radius: 10px;" src="https://lh3.googleusercontent.com/pw/AJFCJaXFff5ElX39RW0nHVgQ0CnPa1C0CI1HS2rp6Teo_-8Aw56gMWqaQMO_SVtTjh2t0p-GLCPSypA3YWS9WDvFd8HQ1S1S5FsTpwMsL5Aeh83JSGhfDwVOuLe6DsuLhgmCxWIaqAwwPgqBOiLoki0mK7no=w325-h58-s-no?authuser=0">
+  <img align="right" alt="Ramon-pic" height="200" style="" src="https://lh3.googleusercontent.com/pw/AJFCJaXtRzmz0lyKpQw4RjSVzFZP-koNit8mWUDibpoXi4YQbdHrXpSrtZ60pWeki3X6T4K9pFZq_BeV4R7z_hZJbsSa5vABmSoEw85NOF3Z-vBBAMHVOsZNucoroMkbQ1yuhTfOtuLbTC0mCDrVf85q5EuP=w1564-h880-s-no?authuser=0">
 </div>
   
   ##
