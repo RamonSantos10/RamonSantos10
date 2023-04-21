@@ -31,4 +31,4 @@
   <a href="https://www.linkedin.com/in/ramon-dos-santos-6b7063221/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/RamonSantos10/RamonSantos10/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
