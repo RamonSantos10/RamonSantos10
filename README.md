@@ -1,7 +1,7 @@
-### Olá! Eu sou o Ramon! 👋
+### Hi! I'm Ramon! 👋
 
-- 🔭 Sou estudante de programação
-- 🌱 Estou estudando JavaScript e Python
+- 🔭 I'm a programming student 
+- 🌱 Currently, I'm learning C# and Dart for Flutter
 
 <div style="display: inline_block;"><br>
   <img align="center" alt="Ramon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
