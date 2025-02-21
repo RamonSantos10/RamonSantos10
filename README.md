@@ -1,7 +1,7 @@
 ### Hi! I'm Ramon! 👋
 
 - 🔭 I'm a programming student 
-- 🌱 Currently, I'm learning C# and Dart for Flutter
+- 🌱 I'm a curious young man
 
 <div style="display: inline_block;"><br>
   <img align="center" alt="Ramon-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
