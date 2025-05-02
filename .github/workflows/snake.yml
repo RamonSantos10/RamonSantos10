@@ -15,7 +15,7 @@ jobs:
       - uses: Platane/snk@master
         id: snake-gif
         with:
-          github_user_name: ramonsantos10
+          github_user_name: RamonSantos10
           svg_out_path: dist/github-contribution-grid-snake-dark.svg
           snake_color: "#8B5CF6"
           color_snake: "#8B5CF6"
