@@ -18,10 +18,10 @@
 
 ```javascript
 const ramon = {
-  perfil: "Desenvolvedor Full Stack",
+  perfil: "Desenvolvedor",
   localização: "Brasil",
   paixões: ["Tecnologia", "Inovação", "Aprendizado Contínuo"],
-  objetivos: "Criar soluções que impactam positivamente a vida das pessoas",
+  objetivos: "Criar soluções que tragam invovação e impactam positivamente a vida das pessoas",
 };
 ```
 
