@@ -66,7 +66,7 @@ const ramon = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ramonsantos10&show_icons=true&theme=aura&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramonsantos10&show_icons=true&theme=aura&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonsantos10&layout=compact&langs_count=7&theme=aura&hide_border=true"/>
   
 <picture align="center">
