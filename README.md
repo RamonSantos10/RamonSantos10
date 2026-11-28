@@ -85,9 +85,10 @@ Gosto de entender o problema de verdade antes de escrever a primeira linha de c�
 ## <img src="assets/icons/section/cube.svg" width="28" align="top" alt=""/> Atividade no GitHub
 
 <div align="center">
+  <!-- Gráfico 3D: reativar quando as contribuições privadas estiverem sendo contadas
   <img src="profile-3d-contrib/profile-purple.svg" width="100%" alt="Gráfico 3D de contribuições, linguagens e estatísticas do GitHub"/>
-
   <br/><br/>
+  -->
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RamonSantos10/RamonSantos10/output/github-contribution-grid-snake-dark.svg">
