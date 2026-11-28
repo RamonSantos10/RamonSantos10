@@ -1,82 +1,93 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ramon%20dos%20Santos&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Desenvolvimento%20de%20Software%20%C2%B7%20Dados%20%C2%B7%20Automa%C3%A7%C3%A3o&descSize=18&descAlignY=58&animation=fadeIn" alt="Ramon dos Santos"/>
 
-  <img width="160" src="https://avatars.githubusercontent.com/u/90793910?s=400&u=e25c65378b0f779535ec8abe4ca632ed63102066&v=4" alt="Foto de Ramon dos Santos" style="border-radius: 50%; border: 5px solid #8B5CF6; margin: 20px 0;"/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&height=45&lines=Cursando+Desenvolvimento+de+Software+Multiplataforma;Power+BI+%C2%B7+Automa%C3%A7%C3%B5es+%C2%B7+WordPress;Transformando+processos+em+solu%C3%A7%C3%B5es;Sempre+aprendendo+e+evoluindo" alt="Typing SVG"/>
+  </a>
 
-  <h1>Ramon dos Santos</h1>
-
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=8B5CF6&center=true&vCenter=true&width=520&lines=Desenvolvedor+de+Software+Multiplataforma;Automa%C3%A7%C3%A3o+%C2%B7+Dados+%C2%B7+IA;Transformando+processos+em+sistemas)](https://git.io/typing-svg)
+  <br/><br/>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramon-dos-santos-6b7063221/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramontedescodossantos2020@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ramondossantos10)
 </div>
 
+<br/>
+
 ## 👋 Sobre mim
 
-Sou estudante do último semestre de **Desenvolvimento de Software Multiplataforma** na **Fatec Matão** (formatura em dezembro de 2026), baseado na região de Matão/Santa Ernestina, SP.
+Sou estudante de **Desenvolvimento de Software Multiplataforma** na **Fatec Matão** e atuo como estagiário de TI em uma empresa B2B de produtos de higiene e limpeza profissional, onde trabalho com **dashboards em Power BI**, **automações com n8n**, **manutenção de sites WordPress** e **suporte de TI**.
 
-Nos últimos anos trabalhei na ponte entre **TI e negócio**: dashboards em Power BI, automações com n8n, manutenção de sites WordPress e suporte de TI em uma empresa B2B. Hoje meu foco é **desenvolver produtos com IA** e construir meus próprios projetos.
+Gosto de entender o problema de verdade antes de escrever a primeira linha de código, e de entregar algo que funcione no dia a dia de quem usa.
 
 ```javascript
 const ramon = {
-  formacao: "Desenvolvimento de Software Multiplataforma (Fatec Matão, 2026)",
-  foco: ["Automação", "Dados & BI", "Desenvolvimento com IA"],
-  estudandoAgora: ["Mineração de Dados", "MCP (Model Context Protocol)", "Agentes de IA"],
-  objetivo: "Criar soluções que simplifiquem processos e gerem impacto real",
-  contato: "Aberto a oportunidades e boas conversas 🤝",
+  formacao: "Desenvolvimento de Software Multiplataforma · Fatec Matão",
+  experiencia: ["Power BI", "Automação (n8n)", "WordPress", "Suporte de TI"],
+  paixoes: ["Tecnologia", "Inovação", "Aprendizado contínuo"],
+  objetivo: "Criar soluções que tragam inovação e impactem positivamente a vida das pessoas",
 };
 ```
 
-## 🔭 Em que estou trabalhando
+## 🛠️ Habilidades
 
-- 🧩 **Plataforma de QR Code e Bio Sites** — links e páginas personalizadas para apoiar a venda de plaquinhas com QR Code e NFC.
-- 🚚 **Sistema de gestão para transportadora** — identidade digital e controle de frota para o negócio da família.
-- 🤖 **IA e automação** — fluxos com n8n, integrações via MCP e agentes aplicados a rotinas reais.
-- 📚 **Faculdade** — projetos de Mineração de Dados e IoT/Smart City (telemetria de ônibus urbanos em Python).
+### 💻 Linguagens e front-end
 
-## 🛠️ Stack
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+</div>
 
-**Linguagens e front-end**
+### 📊 Dados e BI
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](#)
-[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
+<div>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+</div>
 
-**Dados, BI e IA**
+### ⚙️ Automação, back-end e web
 
-[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](#)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](#)
-[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](#)
+<div>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+</div>
 
-**Automação, back-end e infraestrutura**
+### 🧰 Ferramentas
 
-[![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
-[![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)](#)
-[![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)](#)
-[![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)](#)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)
+<div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</div>
 
-**Ferramentas**
+### 🤝 Soft skills
 
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](#)
-[![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](#)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
+<div>
+  <img src="https://img.shields.io/badge/Gestão_de_Equipes-8B5CF6?style=for-the-badge" alt="Gestão de Equipes"/>
+  <img src="https://img.shields.io/badge/Trabalho_em_Equipe-8B5CF6?style=for-the-badge" alt="Trabalho em Equipe"/>
+  <img src="https://img.shields.io/badge/Foco_na_Solução-8B5CF6?style=for-the-badge" alt="Foco na Solução"/>
+  <img src="https://img.shields.io/badge/Organização-8B5CF6?style=for-the-badge" alt="Organização"/>
+</div>
 
-## 🤝 Soft skills e idiomas
+### 🌐 Idiomas
 
-Trabalho em equipe · Foco na solução · Organização · Gestão de equipes · **Inglês**: leitura técnica boa, em evolução na conversação.
+<img src="https://img.shields.io/badge/Inglês-Leitura_técnica_boa_·_em_evolução-8B5CF6?style=for-the-badge" alt="Inglês"/>
 
 ## 📊 Atividade no GitHub
 
 <div align="center">
-  <img height="180" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=ramonsantos10&show_icons=true&theme=aura&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonsantos10&layout=compact&langs_count=7&theme=aura&hide_border=true"/>
+  <img height="180" alt="Estatísticas do GitHub" src="https://github-readme-stats.vercel.app/api?username=ramonsantos10&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&icon_color=8B5CF6&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180" alt="Linguagens mais usadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramonsantos10&layout=compact&langs_count=7&theme=tokyonight&bg_color=0d1117&title_color=A78BFA&hide_border=true"/>
 
   <br/><br/>
 
@@ -87,10 +98,10 @@ Trabalho em equipe · Foco na solução · Organização · Gestão de equipes �
   </picture>
 </div>
 
----
+<br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ramonsantos10&color=8B5CF6&style=flat-square&label=Visualiza%C3%A7%C3%B5es+do+Perfil" alt="Contador de visualizações do perfil"/>
+  <img src="https://komarev.com/ghpvc/?username=ramonsantos10&color=8B5CF6&style=for-the-badge&label=Visualiza%C3%A7%C3%B5es+do+Perfil" alt="Contador de visualizações do perfil"/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=120&section=footer" alt=""/>
